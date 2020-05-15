@@ -1,0 +1,187 @@
+body {
+
+background: #ffffff url("a4.jpg") no-repeat center;
+background-size: 1280px  720px;
+
+}
+
+.text1 {
+line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 20;
+  position: absolute;
+  top: 3%;
+  left: 30%;
+  }
+  
+  .text2 {
+line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 20;
+  position: absolute;
+  top: 3%;
+  left: 44%;
+  }
+  
+  .text3 {
+line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 20;
+  position: absolute;
+  top: 3%;
+  left: 57%;
+  }
+  .text4 {
+line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 20;
+  position: absolute;
+  top: 3%;
+  left: 66%;
+  }
+ 
+ 
+ * {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.wrapper {
+  position: absolute;
+  top: 94%;
+  left: 90%;
+  transform: translate(-50%, -50%);
+  width: 550px;
+}
+
+.wrapper ul {
+  list-style: none;
+}
+
+.wrapper ul li {
+  width: 65px;
+  height: 65px;  
+  margin: 0 15px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 50%;
+  border: 5px solid #00BFFF;
+  float: left;
+  position: relative; 
+  transition: all 0.5s ease;
+}
+
+.wrapper ul li .fa {
+  color: #00BFFF;
+  line-height: 65px;
+  font-size: 30px;
+  transition: all 0.5s ease;
+}
+
+
+
+ul li.instagram:before{
+  content: "instagram";
+}
+
+ul li.Vk:before{
+  content: "Vk";
+  left: 20px;
+}
+
+
+
+ul li:before{
+  content: "";
+  position: absolute;
+  bottom: -35px;
+  left: -5px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: capitalize;
+  transition: all 0.5s ease;
+}
+
+
+
+/* instagram */
+.wrapper ul li:hover.instagram {
+  border: 5px solid #FF00FF;
+  box-shadow: 0 0 15px #FF00FF;
+  transition: all 0.5s ease;
+}
+
+.wrapper ul li:hover .fa-instagram {
+  color: #FF00FF;
+  text-shadow: 0 0 15px #FF00FF;
+  transition: all 0.5s ease;
+}
+
+.wrapper ul li.instagram:hover:before{
+  color: #FF00FF;
+  text-shadow: 0 0 15px #FF00FF;
+}
+
+/* Vk */
+.wrapper ul li:hover.Vk {
+  border: 5px solid #DA70D6;
+  box-shadow: 0 0 15px #DA70D6;
+  transition: all 0.5s ease;
+  
+}
+
+.wrapper ul li:hover .fa-Vk {
+  color: #DA70D6;
+  text-shadow: 0 0 18px #DA70D6;
+  transition: all 0.5s ease;
+ 
+}
+
+
+.wrapper ul li.Vk:hover:before{
+   color: #DA70D6;
+   text-shadow: 0 0 15px #DA70D6;
+  
+}
+
+
+
+
+/* media queries */
+@media screen and (max-width: 680px){
+  .wrapper {
+      width: 150px;
+  }
+  .wrapper ul li{
+      margin-bottom: 45px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

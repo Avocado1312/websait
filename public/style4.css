@@ -1,0 +1,81 @@
+body {
+
+background: #ffffff url("a4.jpg") no-repeat center;
+background-size: 1280px  720px;
+
+}
+
+
+.text3 {
+line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 20;
+  position: absolute;
+  top: 3%;
+  left: 33%;
+  }
+   .text4 {
+line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 20;
+  position: absolute;
+  top: 3%;
+  left: 41%;
+  }
+  
+  .text5 {
+line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 20;
+  position: absolute;
+  top: 3%;
+  left: 55%;
+  }
+  .text6 {
+line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 20;
+  position: absolute;
+  top: 3%;
+  left: 66%;
+  }
+
+#text {
+line-height:1;
+color:#ffffff;
+font-weight: 900;
+ font-family:Times New Romance;
+  font-size: 20;
+  position: absolute;
+  top: 51%;
+  left: 22%;
+width: 1000px; /* Ширина слоя */
+margin: 7px; /* Значение отступов */
+
+padding: 30px; /* Поля вокруг текста */
+  border-radius: 0.2em;
+  display: inline;
+	background-color: #FFFFFF;
+	box-shadow: 0.1em 0.2em 5px rgba(122,122,122,0.5);
+	padding: 20px 20px 615px 30px;
+	color: #808080;
+	
+}
+
+#text2 {
+  position: absolute;
+  bottom: 300px; /* Положение от нижнего края */
+  right: 15px; /* Положение от правого края */
+  line-height: 1px;
+
+  top: 71%;
+  left: 23%;
+}

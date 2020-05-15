@@ -1,0 +1,186 @@
+
+body {
+background: #ffffff url("a4.jpg") no-repeat center;
+background-size: 1280px  720px;
+}
+
+.text13 {
+line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 20;
+  position: absolute;
+  top: 3%;
+  left: 33%;
+  }
+   .text14 {
+line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 20;
+  position: absolute;
+  top: 3%;
+  left: 41%;
+  }
+  
+  .text15 {
+line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 20;
+  position: absolute;
+  top: 3%;
+  left: 55%;
+  }
+  .text16 {
+line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 20;
+  position: absolute;
+  top: 3%;
+  left: 66%;
+  }
+
+
+
+
+
+#text {
+line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 18;
+  position: absolute;
+  top: 51%;
+  left: 9%;
+width: 650px; /* Ширина слоя */
+margin: 5px; /* Значение отступов */
+padding: 15px; /* Поля вокруг текста */
+  padding: 30px; /* Поля вокруг текста */
+  border-radius: 0.2em;
+  display: inline;
+	background-color: #FFFFFF;
+	box-shadow: 0.1em 0.2em 5px rgba(122,122,122,0.5);
+	padding: 50px 20px 3352px 850px;
+	color: #808080;
+	
+}
+#text2 {
+  position: absolute;
+  top: 55%;
+  left: 11%;
+}
+#text3 {
+  position: absolute;
+  top: 110%;
+  left: 53%;
+}
+#text4 {
+line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 18;
+  position: absolute;
+  top: 108%;
+  left: 10%;
+  width: 620px; /* Ширина слоя */
+margin: 5px; /* Значение отступов */
+padding: 15px; /* Поля вокруг текста */
+   
+	color: #808080;
+}
+#text5 {
+  position: absolute;
+  top: 175%;
+  left: 11%;
+}
+#text6 {
+ line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 18;
+  position: absolute;
+  top: 173%;
+  left: 50%;
+  width: 500px; /* Ширина слоя */
+margin: 5px; /* Значение отступов */
+padding: 15px; /* Поля вокруг текста */
+   display: inline;
+	
+	color: #808080;
+}
+
+#text7 {
+  position: absolute;
+  top: 225%;
+  left: 50%;
+}
+
+#text8 {
+ line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 18;
+  position: absolute;
+  top: 225%;
+  left: 11%;
+  width: 620px; /* Ширина слоя */
+margin: 5px; /* Значение отступов */
+padding: 15px; /* Поля вокруг текста */
+   display: inline;
+	
+	color: #808080;
+}
+
+#text9 {
+  position: absolute;
+  top: 275%;
+  left: 11%;
+}
+
+#text10 {
+ line-height:1;
+color:#808080;
+font-weight: 700;
+ font-family:Times New Romance;
+  font-size: 18;
+  position: absolute;
+  top: 275%;
+  left: 50%;
+  width: 400px; /* Ширина слоя */
+margin: 5px; /* Значение отступов */
+padding: 15px; /* Поля вокруг текста */
+   display: inline;
+	
+	color: #808080;
+}
+#text11 {
+  position: absolute;
+  top: 345%;
+  left: 25%;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
